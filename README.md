@@ -8,5 +8,5 @@ Once you installed python, you can probably does this:
 python
 ```
 In case you got:
-> is not recognized as an internal or external command, operable program or batch file.
+> python is not recognized as an internal or external command, operable program or batch file.
 You **did not** install Python correctly. Reinstall Python if the problem still appears.
